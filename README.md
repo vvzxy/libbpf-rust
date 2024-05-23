@@ -1,2 +1,2 @@
 # libbpf-rust
-Developing eBPF programs using libbpf and Rust
+Developing eBPF programs using libbpf and Rust.
